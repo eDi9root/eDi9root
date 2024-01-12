@@ -1,6 +1,5 @@
-### Hi there 👋, my name is **Junseok Oh!**
-#### Study Mathematics and Information Technology at University of Waterloo
-#### Currently looking for an Intern Job
+### Hi there 👋, my name is *Junseok Oh!*
+#### **Study Mathematics and Information Technology at University of Waterloo** </br> **Currently looking for an Intern Job**
 ![I am 4th year student in Waterloo](https://github.com/eDi9root/eDi9root/blob/main/header.gif)
 
 
