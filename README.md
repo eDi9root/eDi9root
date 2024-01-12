@@ -5,7 +5,13 @@
 
 Skills: *C, C++, Python, JavaScript, HTML, SQL, R, Linux, Git*
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on
+- const thai = {
+  pronouns: "he" | "him",
+  code: [C++, C, Python, SQL],
+  tools: [Linux, Git, Visual Studio],
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python and C++"
+}
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eDi9root)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/junseok-oh/)  
