@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Junseok Oh**
 #### I am 4th year student in Waterloo
-![I am 4th year student in Waterloo](https://github.com/eDi9root/eDi9root/blob/main/Hello%2C.gif)
+![I am 4th year student in Waterloo](https://github.com/eDi9root/eDi9root/blob/main/header.gif)
 
 
 Skills: *C, C++, Python, JavaScript, HTML, SQL, R, Linux, Git*
