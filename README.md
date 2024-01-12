@@ -5,14 +5,15 @@
 
 Skills: *C, C++, Python, JavaScript, HTML, SQL, R, Linux, Git*
 
-- 🔭 I’m currently working on
-- const thai = {
+- About Me
+'''javascript
+const Jun = {
   pronouns: "he" | "him",
   code: [C++, C, Python, SQL],
   tools: [Linux, Git, Visual Studio],
  challenge: "I am doing the #100DaysOfCode challenge focused on Python and C++"
 }
-
+'''
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
