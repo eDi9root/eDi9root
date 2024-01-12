@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is **Junseok Oh**
-#### I am 4th year student in Waterloo
+#### I am 4th year student in University of Waterloo
 ![I am 4th year student in Waterloo](https://github.com/eDi9root/eDi9root/blob/main/header.gif)
 
 
