@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is **Junseok Oh!**
-#### *Study Mathematics and Information Technology at University of Waterloo* </br> *Currently looking for an Intern Job*
+#### *Study Mathematics and Information Technology at University of Waterloo*
 ![I am 4th year student in Waterloo](https://github.com/eDi9root/eDi9root/blob/main/header.gif)
 
 
@@ -9,9 +9,11 @@
 const Junseok Oh = {
   Github: "eDi9root"
   pronouns: "he" | "him",
-  code: [C++, C, Python, SQL],
-  tools: [Linux, Git, Visual Studio],
- challenge: "I am doing the #100DaysOfCode challenge focused on Python and C++"
+  code: [C++, C, Python, SQL, JavaScript, HTML, CSS, Assembly],
+  tools: [Git, Visual Studio, SIEM, IDS, APIs],
+  Environments: [Linux, AWS, Node.js, jQuery, PostgreSQL, MySQL],
+
+  Current_Challange: "Cybersecurity"
 }
 ```
 
