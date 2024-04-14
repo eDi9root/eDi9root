@@ -24,5 +24,5 @@ const Junseok Oh = {
 </p>
 
 <p align="center">
-  <a href="https://edi9root.github.io/"><img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg></a>
+  <a href="https://edi9root.vercel.app/"><img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg></a>
 </p>
