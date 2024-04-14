@@ -1,6 +1,8 @@
-### Hi there 👋, my name is **Junseok Oh!**
-#### *Study Mathematics and Information Technology at University of Waterloo*
-![I am 4th year student in Waterloo](https://github.com/eDi9root/eDi9root/blob/main/header.gif)
+
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F704&random=false&width=435&lines=BASH%24+ECHO+%22HELLO%2C+WORLD!+%F0%9F%91%8B%22;I+am+JUNSEOK+OH!;%26+eDi9Root)](https://git.io/typing-svg" />
+</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eDi9root.eDi9root" />
 
 <h2  align="center">📫 WhoamI </h2>
 
