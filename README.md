@@ -6,10 +6,10 @@
 
 ## 📫 WhoamI 
 
-- 🔭 Currently working on CocktailCrafter with Next.js and TailwindCss
+- 🔭 Currently working on Saas Automation builder for Security
 - 🎓 Studying Honours Mathematics with Information Technology at the University of Waterloo, Graduating Sept'24
 - 🌱 Passionate about Software Development, Cybersecurity
--  💬 Ask me about Python, C++, React.js
+-  💬 Ask me about Python, C++, Next.js
 
 ## ⚒️ Technical Skills
 <p align="center">
